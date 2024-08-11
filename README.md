@@ -88,5 +88,4 @@ The application is built using __Python__ with a graphical user interface powere
     Name: Lukáš Zavadil
     GitHub: TadyLucas 
     edx: TadyLucas
-    City: Czech Republic, Havlíčkův Brod
     Date: 18/7/2024
