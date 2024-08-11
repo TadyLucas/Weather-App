@@ -42,7 +42,6 @@ The application is built using __Python__ with a graphical user interface powere
 
     datetime: Provides classes for manipulating dates and times.
 ## What each function is doing
-  # TO DO
 
 - read and make more interesting the Introduction text
 
